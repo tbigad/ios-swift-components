@@ -1,0 +1,1 @@
+Use for UI without Xib/Storyboards
