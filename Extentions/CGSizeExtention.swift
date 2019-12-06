@@ -1,6 +1,5 @@
 //
 //  CGSizeExtention.swift
-//  CnnRssFeed
 //
 //  Created by Pavel N on 12/6/19.
 //  Copyright © 2019 Pavel N. All rights reserved.
