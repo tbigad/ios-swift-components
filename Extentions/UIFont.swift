@@ -3,7 +3,6 @@
 //  HeartRateMonitor
 //
 //  Created by Pavel Nadolski on 10.03.2021.
-//  Copyright © 2021 AIBY. All rights reserved.
 //
 
 import UIKit
